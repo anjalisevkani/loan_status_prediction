@@ -39,11 +39,10 @@ making it suitable for classification and preprocessing practice.
 ## 🛠️ Technologies & Libraries Used
 - Python  
 - NumPy  
-- Pandas  
-- Matplotlib  
+- Pandas   
 - Seaborn  
 - Scikit-learn  
-- Google Colab / Jupyter Notebook  
+- Google Colab   
 
 ---
 
